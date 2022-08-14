@@ -34,3 +34,15 @@ __Міркування:__ нічого нового для мене тут не 
 + Виростив [достатньо](./task_responsive_web_design/garden.png) моркви, щоб спекти знаменитий 20-морквяний пиріг.
 
 __Мірування:__ флексами володів до цього, тут нічого коментувати. Grid був абсолютно новим для мене. Не сказав би, що мене щось здивувало. Просто новий матеріал. Напевно все буду використовувати, що дізнавня про гріди. Спочатку без спрощених записів (накшталт `grid-template` і те, що за ним слідує), а тоді як газу дам, тупо еееееееммммммм...
+
+## JS Basics
+Скріншоти опрацьованих матеріалів:
+* [Вступ до JS (лекції)](./task_js_basics/1%20introducting%20to%20js.png);
+* [freeCodeCamp: Basic JavaScript](./task_js_basics/2%20basic%20js.png);
+* [freeCodeCamp: ES6 Challenges](./task_js_basics/3%20es6.png);
+* [freeCodeCamp: Basic Data Structures ](./task_js_basics/4%20Basic%20Data%20Structure.png);
+* [freeCodeCamp: Basic Algorithm Scripting ](./task_js_basics/5%20basic%20algorithm.png);
+* [freeCodeCamp: Functional Programming](./task_js_basics/6%20Functional%20Programming.png);
+* [freeCodeCamp: Algorithm Scripting Challenges ](./task_js_basics/7%20intermediate%20algorithm%20scripting.png);
+
+__Міркування:__ певними основами JS я володів до проходження цих лекцій і завдань. Але мене здивувало те, як працює рекурсія в JS. Я знав у загальних словах, що в програмуванні називається рекурсією, але не мав чіткого уявлення, як це працює в мовах програмування (зокрема JS). Коли в завданні на freeCodeCamp побачив приклад рекурсивної фукції, дивився і не розумів як це взагалі може працювати. Потім загуглив, зрозумів, як стеки викликів функції накладаються один на одного і все стало зрозуміло. Цікавами були алгоритмічні завдання і концепції функціонального програмування. Новими для мене були де-які функції масива, зокрема `Array.prototype.filter()`, `Array.prototype.reduce()`, `Array.prototype.map()`. Планую всі знання, які тут освіжив чи здобув нові, використовувати в майбутньому. Бо 'pure JS' це база).
