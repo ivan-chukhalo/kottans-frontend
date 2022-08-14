@@ -1,5 +1,15 @@
 # kottans-frontend
 
+## Git Basics
+* Скріншоти з курсу [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
+  * [Week#1](./taks_git_basics/../task_git_basics/Introduction_to_Git_and_GitHub_week1.png)
+  * [Week#2](./taks_git_basics/../task_git_basics/Introduction_to_Git_and_GitHub_week2.png)
+* Скріншоти з ресурсу [learngitbranching](https://learngitbranching.js.org/?locale=uk):
+  * [Основи](task_git_collaboration/git-branching_1.png)
+  * [Віддалені репозиторії](task_git_collaboration/git-branching_2.png)
+
+__Міркування__: свої міркування після ресурсів цього навчального блоку я описав нижче, у розділі __Git Collaboration__ після того, як повністю їх усі пройшов.
+
 ## Linux CLI, and HTTP
 Скріншоти тестів на [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/):
 * [Quiz #1](./task_linux_cli/Linux-Survival_Quiz-1.png)
