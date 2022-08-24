@@ -64,6 +64,7 @@ __Міркування:__ певними основами JS я володів �
 Скріншоти опрацьованих матеріалів:
 + [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5) - [скріншот](./task_js_dom/dom-manipulation.png);
 + [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - [скріншот](./task_js_dom/algorithm-scripting-challenges.png);
-+ Реалізував [side-menu](https://ivan-chukhalo.github.io/Kottans_side-menu/).
+
+Також реалізував [side-menu](https://ivan-chukhalo.github.io/Kottans_side-menu/).
 
 __Міркування:__ цікавими були алгоритмічні завдання із freeCodeCamp, новими були JS команди для маніпуляції з DOM-деревом. Буду використовувати їх в майбутньому.
