@@ -34,3 +34,9 @@ __Міркування:__ нічого нового для мене тут не 
 + Виростив [достатньо](./task_responsive_web_design/garden.png) моркви, щоб спекти знаменитий 20-морквяний пиріг.
 
 __Мірування:__ флексами володів до цього, тут нічого коментувати. Grid був абсолютно новим для мене. Не сказав би, що мене щось здивувало. Просто новий матеріал. Напевно все буду використовувати, що дізнавня про гріди. Спочатку без спрощених записів (накшталт `grid-template` і те, що за ним слідує), а тоді як газу дам, тупо еееееееммммммм...
+
+## DOM
+Скріншоти опрацьованих матеріалів:
++ [Document Object Model Manipulation](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/5) - [скріншот](./task_js_dom/dom-manipulation.png);
++ [freecodecamp Algorithm Scripting Challenges](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting) - [скріншот](./task_js_dom/algorithm-scripting-challenges.png);
++ Реалізував [side-menu](https://ivan-chukhalo.github.io/Kottans_side-menu/).
